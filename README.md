@@ -1,7 +1,7 @@
 # tuling123-sdk
     图灵机器人API SDK for PHP，支持图灵机器人接口v1.0和v2.0，官方文档：http://doc.tuling123.com/openapi2/263611
 # 要求
-    PHP >= 5.3.0 || PHP >= 7.0.0
+    PHP >= 5.3.0
 # 安装
     composer require "gdali/tuling123-sdk"
 # 使用
@@ -14,6 +14,6 @@
 # 输出
     当->tuling带true参数时，返回Tuling123的原生数组，否则返回文字信息。
 # 体验
-![](http://www.anvaa.com/qrcode_mmplas.jpg)
+![](https://www.anvaa.com/qrcode_mmplas.jpg)
 # 关注
     微信公众号：mmplas
