@@ -13,7 +13,5 @@
 *  Text：输入字符串，必填
 # 输出
     当->tuling带true参数时，返回Tuling123的原生数组，否则返回文字信息。
-# 体验
+# 体验（公众号）
 ![](https://www.anvaa.com/qrcode_mmplas.jpg)
-# 关注
-    微信公众号：mmplas
